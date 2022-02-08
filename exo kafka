@@ -1,0 +1,23 @@
+1- Définir la techno sur laquelle vous travaillez en quelques lignes?
+
+Le logiciel Apache Kafka est une application open source de la fondation Apache dont la principale fonction est la centralisation des flux de données
+
+2- Donner au moins 2 fonctionnalités de la techno sur laquelle vous travaillez ?
+
+La fonction première d’Apache Kafka est d’optimiser la transmission et le traitement des
+flux de données qui sont directement échangés entre le destinataire de données et la source. 
+Kafka fait office d’instance de messagerie entre l’émetteur et le récepteur
+
+3-  Donner au moins 2 avantages de la techno sur laquelle vous travaillez ?
+
+-Kafka est distribué Cela signifie que ses capacités sont élastiques (il suffit d’ajouter des noeuds, c’est-à-dire des serveurs, à un cluster pour l’étendre.)5
+-L’un des meilleurs avantages est la tolérance aux pannes. En effet, Apache Kafka possède une capacité inhérente,
+à résister aux pannes de nœuds / machines au sein d’un cluster.
+
+4-  Donner au moins 2 inconvénients / points négatifs de la techno sur laquelle vous travaillez?
+-Kafka commence à se comporter un peu maladroit et lentement lorsque le nombre de files d’attente dans un cluster Apache Kafka augmente.
+
+5-  Donner une alternative de la techno sur laquelle vous travaillez?
+
+-RabbitMQ
+-Fluentd
